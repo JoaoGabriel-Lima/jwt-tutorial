@@ -408,6 +408,6 @@ Remember to see the GitHub repo to see all code. [Github repo link](https://gith
 
 JWT Access Token Authentication is only a grain of sand compared with the infinity of other security methods you can implement in your backend code. If you're interested in continuing to studying about security, you must see **refresh tokens** and **how to protect tokens**, this will further complement the lessons learned in this article.
 
-##Ending
+## Ending
 
 So, This is my first article and it took me three long days to write. If you have a question, feel free to send me a DM on [Twitter](https://twitter.com/juaozin__) or talk with me on Discord (Jão#6140). I hope to have time in the future to continue writing to you all! See you in the next time! 👋🏾
