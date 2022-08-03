@@ -395,11 +395,12 @@ module.exports = router;
 ```
 
 Now, if we try to make a request to `/allUsers` endpoint without a token, we will get:
-![Invalid Token Response](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fv27mxpox6jcm6aja9lp.png)
+
+<div style="text-align:center"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fv27mxpox6jcm6aja9lp.png" alt="Invalid Token Response"/></div>
 
 But adding our token in the Insominia Authorization Header and making a request to `/allUsers`, we get:
 
-![Valid Token Response](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k30pwmc6gdi5qsp2fmbh.png)
+<div style="text-align:center"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k30pwmc6gdi5qsp2fmbh.png" alt="Valid Token Response"/></div>
 
 And finally, you have a secure REST API with JWT Authentication 🥳🥳🎉
 Remember to see the GitHub repo to see all code. [Github repo link](https://github.com/JoaoGabriel-Lima/jwt-tutorial)
