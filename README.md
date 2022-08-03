@@ -1,6 +1,7 @@
 # How to secure sensitive endpoints using JWT in Node.js
 
 Repository created in this article: [jwt-tutorial](https://github.com/JoaoGabriel-Lima/jwt-tutorial)
+
 When I started to develop backend projects, I was very concerned about the security of my endpoints and a question came to my mind: if anyone can make requests to my backend application, how do I protect my Rest API against malicious people? I spent months searching about it and I would like to share what I found.
 
 ## The problem
